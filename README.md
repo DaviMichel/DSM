@@ -1,13 +1,17 @@
-This project is a responsive website hosted on Vercel, designed and developed with modern web technologies. The site aims to provide a seamless user experience across all devices with a focus on clean design and functionality.
+DSM - Serviços Rápidos e Seguros de Transporte de Cargas
+Este repositório contém o código-fonte do site da DSM Transportadora, uma empresa fictícia especializada em serviços rápidos e seguros de transporte de cargas. O site foi desenvolvido utilizando HTML, CSS e JavaScript para criar uma experiência de usuário intuitiva e responsiva.
 
-Features
-Responsive Design: Ensures compatibility across various screen sizes and devices.
-Clean and Modern UI: Utilizes contemporary design principles for an aesthetically pleasing appearance.
-Optimized Performance: Fast load times and efficient performance for enhanced user experience.
-Navigation: Easy-to-use navigation with a hamburger menu on mobile devices.
-Integrated Google Maps: Displays a specific location for easy access and directions.
-Technologies Used
-HTML: For the structure of the website.
-CSS: For styling the website, ensuring it is visually appealing and responsive.
-JavaScript: For adding interactivity and smooth scrolling functionality.
-Vercel: Hosting platform for deploying and managing the website.
+Visão Geral
+O site da DSM Transportadora foi projetado para apresentar os serviços da empresa, destacar sua missão e valores, e oferecer uma interface de contato direta com integração ao Google Maps.
+
+Funcionalidades
+Home Page: Bem-vindo à DSM Transportadora, com uma imagem de destaque e chamada para ação.
+Quem Somos: Informações detalhadas sobre a empresa, sua missão e valores.
+Serviços: Apresentação dos principais serviços de transporte oferecidos.
+Contato: Informações de contato e integração com Google Maps para facilitar a localização.
+Responsividade: O layout do site é responsivo e se adapta a diferentes tamanhos de tela.
+Tecnologias Utilizadas
+HTML5: Estruturação do conteúdo.
+CSS3: Estilização, layout responsivo, e design moderno.
+JavaScript: Funcionalidades interativas e manipulação do DOM.
+Google Fonts: Fontes Montserrat e Poppins para uma tipografia elegante.
